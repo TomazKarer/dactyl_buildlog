@@ -1,10 +1,10 @@
 # Dactyl manuform build log
 
 ## BOM
-| Item                                         | Price                                                                                                                          |                            |
-| --                                           | --                                                                                                                             | --                         |
-| 3d printed case printed with local provider. | 30 €                                                                                                                           | https://www.treatstock.com |
-| 2x Pro Micro                                 | https://www.aliexpress.com/snapshot/0.html?spm=a2g0s.9042647.0.0.4de34c4dnSNGrW&orderId=8135886042885033&productId=32768308647 |                            |
+| Item                                         | Price | Location |
+| --                                           | --    | --   |
+| 3d printed case printed with local provider. | 30 €  | https://www.treatstock.com  |
+| 2x Pro Micro   | 12 €  | https://www.aliexpress.com/snapshot/0.html?spm=a2g0s.9042647.0.0.4de34c4dnSNGrW&orderId=8135886042885033&productId=32768308647 |
 
 ## Case
 
