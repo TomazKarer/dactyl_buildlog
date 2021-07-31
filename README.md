@@ -12,6 +12,8 @@ I've used carbonfet's project (https://github.com/carbonfet/dactyl-manuform). It
 
 I went with 4x6 design - diff can be found [here](https://github.com/TomazKarer/dactyl_buildlog/blob/main/case.diff).
 
+.stl files where uploadet to Treatstock. I've also uploaded pregenerated pro micro holder.stl, but forgot to have it printed twice. I choose the cheapest provide that offered the print for 12 € but the offer was rejected :). So after waiting for a few days for a refound went with the next in line, which also provided delivery free of charge. After two days the print was done and I was able to inspect it over the photos provided.
+
 ## Electronics
 
 
