@@ -6,7 +6,10 @@
 | 3d printed case printed with local provider. | 30 €  | https://www.treatstock.com                                                                                                     |
 | 2x Pro Micro                                 | 12 €  | https://www.aliexpress.com/snapshot/0.html?spm=a2g0s.9042647.0.0.4de34c4dnSNGrW&orderId=8135886042885033&productId=32768308647 |
 | 60 x 1N4148 Diode                            | 2 €   | https://www.ic-elect.si/dioda-1n4148-do-35-4ns-100v-0-5a-34483.html                                                            |
-| Outemu brown + keycasp                       | 27 €  | Canibalized Redragon K630                                                                                                      |
+| Conductive Copper Tape                       | 8 €   | local electronics store                                                                                                        |
+| TRS connector                                | 3 €   | local electronics store                                                                                                        |
+| Color cables (40 pieces)                     | 3 €   | local electronics store                                                                                                        |
+| Outemu brown + keycasp                       | 27 €  | canibalized Redragon K630                                                                                                      |
 
 
 ## Case
