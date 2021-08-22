@@ -11,6 +11,10 @@
 | Color cables (40 pieces)                     | 3 €   | local electronics store                                                                                                        |
 | Outemu brown + keycasp                       | 27 €  | canibalized Redragon K630                                                                                                      |
 
+| Tool              | Price | Location |
+| Soldering station | ?     |          |
+| Multimeter        | ?     |          |
+
 
 ### Case
 
