@@ -12,6 +12,7 @@
 | Outemu brown + keycasp                       | 27 €  | canibalized Redragon K630                                                                                                      |
 
 | Tool              | Price | Location |
+| --                | --    | --      |
 | Soldering station | ?     |          |
 | Multimeter        | ?     |          |
 
@@ -34,7 +35,8 @@ Since there were 61 keys this also determined layout for Dactyl.
 
 ### Electronics
 
-As far as electronic components go, I've bought a few from local electronic stores and few fro Aliexpress. I could've saved a few Euros if would have ordered everything from Alis, but the difference is little. 
+As far as electronic components go, I've bought a few from local electronic stores and other from Aliexpress. I could've saved a few Euros if would have ordered everything from Alis, but the difference is little. 
+
 
 I already owned a soldering station - I've no idea, how much did it cost.
 
@@ -42,6 +44,6 @@ I already owned a soldering station - I've no idea, how much did it cost.
 
 After recieving the case a month passed until I've found time and energy (and willpower - raising twins is an adventure :)) to continue. 
 
-After reading couple tutorials/build logs I've decided to start with conductive copper tape connecting vertical lines of pins. This wasn't very hard - the important thing is to do it first and only then solder the diodes. During appling the tape be careful not to tear it in half, only for the small hole of the pin. Soldering the pins was not a big dea and afterwards I've checked the work with multimeter (the impendance of pressed switch should be near zero) and it seemed ok.
+After reading couple tutorials/build logs I've decided to start with conductive copper tape connecting vertical lines. This wasn't very hard - the important thing is to use copper tape first and only after doing it solder the diodes horizontaly. During aplying the tape be careful not to tear it in half - only tear a small hole for the pin. Soldering pins was not a big deal. Afterwards I've checked connections with multimeter (the impendance of pressed switch should be near zero) and it seemed fine.
 
-The diodes come horizontaly. You need to be careful regarding orientation of the diode, it matters. The soldering took some time but it was not hard it took maybe an hour.
+The diodes connect the switches horizontaly. You need to be careful regarding orientation of the diodes, it does matters. The soldering took some time but it was not hard and it took maybe an hour.
