@@ -31,14 +31,14 @@ I've bought a Red Dragon K630 keyboard for measly 27 € a few months ago. It lo
 
 It uses Outemu Brown hot swap switches and they seemed perfect for Dactyl I intended to build. I've decided to go against hot swap option for now.
 
-Since there were 61 keys this also determined layout for Dactyl.
+Since there were 61 keys this also determined layout for Dactyl. While I didn't have much (any!) experience with 40 % or similar design I still ventured this way. 4x6 Manuform layout has a large thumb cluster and the rest of the keys all are near home row position. The lack of keys should be compensated with 6 key thumb cluster. Surely not optimal since all cluster keys are not easy to access but it was worth a try.
 
 ### Electronics
 
 As far as electronic components go, I've bought a few from local electronic stores and other from Aliexpress. I could've saved a few Euros if would have ordered everything from Alis, but the difference is little. 
 
 
-I already owned a soldering station - I've no idea, how much did it cost.
+I already owned a soldering station - I've got no idea how much did it cost.
 
 ## Build process
 
@@ -47,3 +47,5 @@ After recieving the case a month passed until I've found time and energy (and wi
 After reading couple tutorials/build logs I've decided to start with conductive copper tape connecting vertical lines. This wasn't very hard - the important thing is to use copper tape first and only after doing it solder the diodes horizontaly. During aplying the tape be careful not to tear it in half - only tear a small hole for the pin. Soldering pins was not a big deal. Afterwards I've checked connections with multimeter (the impendance of pressed switch should be near zero) and it seemed fine.
 
 The diodes connect the switches horizontaly. You need to be careful regarding orientation of the diodes, it does matters. The soldering took some time but it was not hard and it took maybe an hour.
+
+Color cables had female connectors on both side. I cut off connector from one side of the cable and soldered it to horizontal line connecting diodes and vertical line of copper tape. The other part was easy to connect to Pro Micro on which I've soldered the pin heads. 
