@@ -68,7 +68,7 @@ Without thinking much about different layouts and theirs implementation I've nai
 
 I've solved my issue with this QMK macro:
 
-`
+```
 enum custom_keycodes {
 	SUMNIK_S = SAFE_RANGE,
 	SUMNIK_C,
@@ -99,7 +99,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
     }
     return true;
 };
-`
+```
 
 It sends a macro of key codes that mimic the combination used for šumnik in EurKEY layout. 
 
