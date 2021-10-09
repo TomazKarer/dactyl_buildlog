@@ -104,3 +104,13 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
 It sends a macro of key codes that mimic the combination used for šumnik in EurKEY layout. 
 
 This solved the last issue preventing me from using the keyboard for work. The layout is still a work in progres - it can be accessed here (branch tk).
+
+## Conclusion
+
+Well - the keyboard works :). I've learned few things about soldering, PCBs, 3D printing and QMK.
+
+But it is in no way a finished product to proudly show anyone :). 
+
+The key takeout is:
+
+- soldering is quite easy, but to do it professionaly it is not an easy task. Copper tape and cables are messy. The next project will be built using PCBs - folded PCBs for 3x6 matrix and Amoeba PCBs for thumb cluster
